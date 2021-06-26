@@ -1,0 +1,2 @@
+# MSTSC
+WInMain code
